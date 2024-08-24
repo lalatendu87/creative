@@ -1,0 +1,31 @@
+h1{
+    color: rgba(15, 15, 15, 0.884);
+}
+body{
+    background-color: #ebf4f575;
+    
+}
+.menu{
+    background-image: url(img/f6819a0b4b9d350a5a553e3a413baadf.jpg);
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+
+.menu ul li{
+    padding: 40px;
+}
+
+.menu ul li a{
+    color: rgb(173, 82, 22);
+    font-size: 30px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.banner{
+    background-image: url(img/360_F_650267966_nqsbFi0dSDnJm1wI6m6beP9cUebNOBxM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
